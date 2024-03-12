@@ -31,10 +31,12 @@ There are various steps you need to follow for the .aar creation and publishing.
             }
         }
     }
+
+   plugins{
+       id("maven-publish")
+    }
 ```
-``` build.gradle
- id("maven-publish")
-```
+
 6. Publish the .aar package by using the gradle publish command it on github
 7. Now, you can import the package inside the build.gradle and add the below code to project level build.gradle
    ``` build.gradle
@@ -45,4 +47,4 @@ There are various steps you need to follow for the .aar creation and publishing.
         }
    ```
 
-
+#### Note: Don't forget to add the Retrofit dependency in your app/build.gradle
