@@ -1,5 +1,10 @@
-# package_app
+# e_Krushi Chatboat Module.
 Native Chat bot AI package module for the development.
+
+<img src="https://github.com/ajinkya446/package_app/assets/49361315/3ff772d5-4912-4670-bc59-3ad9eca9e687" width="20%" height="30%">
+
+<img src="https://github.com/ajinkya446/package_app/assets/49361315/9d9cdedb-9123-4172-b158-b4dd29c8e1f6" width="20%" height="30%">
+
 
 ## How to Add
 There are various steps you need to follow for the .aar creation and publishing.
